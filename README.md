@@ -7,3 +7,6 @@ Basic childhood game using:
 > IF function
 
 > Scanner
+
+
+>> Enjoy the code, enjoy the game!
