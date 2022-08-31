@@ -9,4 +9,4 @@ Basic childhood game using:
 > Scanner
 
 
->> Enjoy the code, enjoy the game!
+> Enjoy the code, enjoy the game!
